@@ -1,2 +1,14 @@
 # sample-hugo
-sample hugo app
+
+*Run Server*
+
+```
+hugo server -D
+```
+
+*Build Static*
+
+```
+hugo -D
+```
+
