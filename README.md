@@ -4,16 +4,8 @@
 
 ### Docker
 
-*Build Image*
-
 ```
-docker build . -t <image-name>
-```
-
-*Run Image*
-
-```
-docker run --rm -p 8080:80 <image-name>
+make run
 ```
 
 Visit localhost:8080
